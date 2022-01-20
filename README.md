@@ -1,4 +1,4 @@
-                                                               👋 Hi, I’m @JORAYEV ZARIF
+                                                            👋 Hi, I’m @JORAYEV ZARIF
 - 👀 I’m interested in ...
 
 .I ZARIF JORAYEV Surkhandarya region Kumkurgan district
