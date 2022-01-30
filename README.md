@@ -1,7 +1,7 @@
                                                             👋 Hi, I’m @JORAYEV ZARIF
 - 👀 I’m interested in ...
 
-.I ZARIF JORAYEV Surkhandarya region Kumkurgan district
+.I am ZARIF JORAYEV Surkhandarya region Kumkurgan district
   I have been participating in Mathematical Olympiads since I was young. 
   In August 2019, I entered Tashkent University of Information Technologies 
   in the field of Telecommunication Technologies. There I started C ++.
