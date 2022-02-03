@@ -15,8 +15,8 @@
 - 💞️ I’m looking to collaborate on ...  yes
 - 📫 How to reach me ...
 -LIKIDEN::::https://www.linkedin.com/in/zarif-jorayev-a3250b228/                                                                                                                    
-![image](https://user-images.githubusercontent.com/90143691/152418111-c436b83e-e5cf-4654-9019-9ec57167ddcc.png)
--TELEGRAM:::@webdeveloper1999
+
+![image](https://user-images.githubusercontent.com/90143691/152418506-8acb07c1-32d5-4d5f-8ad2-80352917558a.png)-TELEGRAM:::@webdeveloper1999
 
 <!---
 jorayevzarif1999/jorayevzarif1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
