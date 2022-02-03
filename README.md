@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning ...yes
 - 💞️ I’m looking to collaborate on ...  yes
 - 📫 How to reach me ...
--LIKIDEN::::https://www.linkedin.com/in/zarif-jorayev-a3250b228/
+-LIKIDEN::::https://www.linkedin.com/in/zarif-jorayev-a3250b228/                                                                                                                    
 -TELEGRAM:::@wendeveloper1999
 
 <!---
