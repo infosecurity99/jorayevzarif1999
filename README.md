@@ -13,12 +13,7 @@
 - 🌱 I’m currently learning ...yes
 - 💞️ I’m looking to collaborate on ...  yes
 - 📫 How to reach me ...
-React
-HTML5
-CSS3
-Sass
-Visual Studio Code
-JavaScript
+
 
 <!---
 jorayevzarif1999/jorayevzarif1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
