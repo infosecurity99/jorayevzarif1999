@@ -16,8 +16,6 @@
 - 📫 How to reach me ...
 -LIKIDEN::::https://www.linkedin.com/in/zarif-jorayev-a3250b228/                                                                                                                    
 
-![image](https://user-images.githubusercontent.com/90143691/152420526-97b33497-344f-4a31-8431-d03b0dda3bc0.png)-TELEGRAM:::@webdeveloper1999
-
 <!---
 jorayevzarif1999/jorayevzarif1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 You can click the Preview link to take a look at your changes.
