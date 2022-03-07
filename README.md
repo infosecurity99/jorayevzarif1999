@@ -21,4 +21,4 @@ jorayevzarif1999/jorayevzarif1999 is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 ---> 
                                                           THE EAGLE
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/90143691/155804930-24e3dd35-58d6-4f70-a5ac-4c75fa86427f.svg)
+
